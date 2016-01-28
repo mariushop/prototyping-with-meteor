@@ -26,5 +26,5 @@ Reserve a seat now.
 About Meteor:
 https://www.meteor.com
 
-About trainer:
+About the trainer:
 https://ro.linkedin.com/in/mariuspop9
