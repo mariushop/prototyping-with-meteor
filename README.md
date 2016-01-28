@@ -1,7 +1,9 @@
 # Prototyping with Meteor
 
-Fast prototyping with JavaScript - nice skills to have when you hear "the client needs to see it by the end of the week"
+Fast prototyping with JavaScript - nice skills to have when you hear "the client needs to see it by the end of the week".
+
 ![What the client really wanted](/what_the_client_wanted.png?raw=true "What the client really wanted.")
+
 
 ## We'll actually prototype a product 
  - defaults to a random pick from Facebook, WhatsApp, Product Hunt, reddit, if we don't decide otherwise
@@ -20,8 +22,8 @@ Fast prototyping with JavaScript - nice skills to have when you hear "the client
 ## Interested?
 Reserve a seat now.
 
+
 About Meteor:
 https://www.meteor.com
-
 About trainer:
 https://ro.linkedin.com/in/mariuspop9
