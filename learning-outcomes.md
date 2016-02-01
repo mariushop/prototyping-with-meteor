@@ -1,28 +1,28 @@
-1.
+###Session one
 - create a meteor app
 - templating 
 - sending data to templates
 - responding to events 
 
-2.
+###Session two
 - Mongo Collections
 - find/insert/update/remove documents
 - Meteor packages
 - responsive (grid) UI
 
-3. 
+###Session three
 - user management
 - data journey
 - iOS/Android packaging
 
-4.
+###Session four
 - routing
 - server routes
 - client routes
 - session variables
 
 
-5. 
+###Session five
 - application architecture
 - deploy meteor apps
 - build your own app
