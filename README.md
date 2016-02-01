@@ -6,7 +6,7 @@ Fast prototyping with JavaScript - nice skills to have when you hear "the client
 
 
 ## We'll actually prototype a product 
- - defaults to a random pick from Facebook, WhatsApp, Product Hunt, reddit, if we don't decide otherwise
+ - a chat app where you can upload images, files, documents and share messages with your team.
 
 ## We'll try a particular approach
  - hands on, mind on, voice on
