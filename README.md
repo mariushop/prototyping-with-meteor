@@ -10,7 +10,7 @@ Fast prototyping with JavaScript - nice skills to have when you hear "the client
 
 ## We'll try a particular approach
  - hands on, mind on, voice on
- - we'll follow a story line (the actual story defaults to "Snow White" if we can't decide)
+ - we'll follow a story line ([this one](storyline.md))
  - we'll throw away our code after each session and rewrite it on the next
 
 ## Logistics
