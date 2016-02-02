@@ -1,3 +1,5 @@
+## Expected learning outcomes from Prototyping with Meteor
+
 ###Session one
 - create a meteor app
 - templating 
