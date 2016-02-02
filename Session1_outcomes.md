@@ -16,8 +16,9 @@ Then the code editor crashed and we started all over again. After restart, we ma
 - created a Session variable, set its value to the inputs value, and displayed in the template by getting its value in a helper (Sorry, Tomi, we did that in your absence, I think);
 - watched in delight how the template updated as we typed in the input.
 
-Thank you Georgiana, George, Zoli for typing away our suggestions and your enthusiasm; exquisite random function for simulating editor crashing, Zoli! I was impressed you actually implemented a nice interface for it.
+Thank you Georgiana, George, Zoli for typing away our suggestions; exquisite random function for simulating editor crashing, Zoli! I was impressed you actually implemented a nice interface for it.
 Tomi and Calin, I apreciate you squized this into your schedule. 
+
 Nice job, everybody, see you in session 2.
 
 
