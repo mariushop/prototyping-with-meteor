@@ -4,6 +4,8 @@
 - sending data to templates
 - responding to events 
 
+[What actually happened!](Session1_outcomes.md)
+
 ###Session two
 - Mongo Collections
 - find/insert/update/remove documents
