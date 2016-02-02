@@ -21,5 +21,8 @@ Tomi and Calin, I apreciate you squized this into your schedule.
 Nice job, everybody, see you in session 2.
 
 
+![img_0831](https://cloud.githubusercontent.com/assets/4264640/12757296/24837b50-c9e0-11e5-8fc6-d7eb7653b108.JPG)
+
+
 
 
