@@ -3,7 +3,7 @@
 What happened:
  - as Meteor ships with MongoDB, we took a moment to understand how things work in non-relational databases. MongoDB represents data as collections of JSON documents and doesn't complain if you don't have a schema defined.
  - trying to simulate how things actually work on a data level, we wrote actual documents with a JSON structure on pieces of paper and stored them in a bin. We got two things from the excercise: the analogy with Collections in MongoDB *and* the key:value structure of messages objects that we used next;
- - next, we created a fresh Meteor app and built two templates: one for displaying messages(messagesTemplate) and one for user input (inputTemplate).
+ - next, we created a fresh Meteor app and built two templates: one for displaying messages (messagesTemplate) and one for user input (inputTemplate).
 
 In the mean time, we successfuly evaded 2 code editor crashes. Luck was on our side, so we pressed on:
 
