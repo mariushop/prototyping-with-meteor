@@ -6,13 +6,15 @@
 - sending data to templates
 - responding to events 
 
-[What actually happened!](Session1_outcomes.md)
+[What actually happened in session 1.](Session1_outcomes.md)
 
 ###Session two
 - Mongo Collections
 - find/insert/update/remove documents
 - Meteor packages
 - responsive (grid) UI
+
+[What actually happened in the second session.](Session2_outcomes.md)
 
 ###Session three
 - user management
