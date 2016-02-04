@@ -21,6 +21,8 @@
 - data journey
 - iOS/Android packaging
 
+[We had a good third session.](Session3_outcomes.md)
+
 ###Session four
 - routing
 - server routes
