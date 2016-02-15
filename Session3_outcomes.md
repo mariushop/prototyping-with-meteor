@@ -14,7 +14,7 @@ We debriefed:
    - if you had more time, what would you liked to address next?
 
 Afterwards, we set on removing the `autopublish` package from the app and replicating the functionalities we lost by doing that. 
-To achieve **database everywhere**, ant **latency compensation** we made use of the Publish/Subscribe pattern. 
+To achieve **database everywhere** and **latency compensation** we made use of the Publish/Subscribe pattern. 
 
 At the end of the session, we worked a way to have multiple channels on the app and let the user switch between them.
 
