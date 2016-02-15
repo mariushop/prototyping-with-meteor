@@ -29,6 +29,7 @@
 - client routes
 - session variables
 
+[Good practices session.](Session4_outcomes.md)
 
 ###Session five
 - application architecture
