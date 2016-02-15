@@ -4,7 +4,7 @@ Today, everybody had to work on its own app for about half an hour, on the follo
 "Your boss wants a demo. Work on an chat app beginning from scratch."
 
 We had an open-session demo where we got the chance to see every app. Results were impressive: everybody got user signup/login/logout, messages saving and displaying.
-In the process, Georgiana discovered Meteor complains if you manually define a `users` collection, George installed a package that allowed displaying timestamps in a cool way and Zoltan incorporated `bootstrap`.
+In the process, Georgiana discovered that Meteor complains if you manually define a `users` collection, George installed a package that allowed displaying timestamps in a cool way and Zoltan incorporated `bootstrap`.
 
 We debriefed:
    - how did you begin working?
