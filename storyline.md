@@ -15,4 +15,5 @@ A day later, you write: "Dear diary, I'm sure there's something shady about the 
 
 Day three: you had your first demo and... nailed it! Although you had approximately 30 minutes to achieve something, you got to having user accounts and message saving/displaying by the time you presented it. Now it's time to move on to a more secure way of getting your data from server to clients.  You learn about the Publications and Subscriptions. Day three lets you wondering if there's a way to subscribe to data right in the template where you will display it. Oh, and that nasty code editor bug that made you lose all your code: apparently gone.
 
+Day 4: Yes! There **is** a way to subscribe to data right inside your template. Moving on, you discover routing with Iron Router, which lets you wait for data before rendering a template and setting the data context reactively. Also, you get to secure some leaking parts of your app, removing `autopublish` and `insecure` packages. Your app looks like a mature one.
 
