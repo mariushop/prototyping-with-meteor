@@ -17,3 +17,10 @@ Day three: you had your first demo and... nailed it! Although you had approximat
 
 Day 4: Yes! There **is** a way to subscribe to data right inside your template. Moving on, you discover routing with Iron Router, which lets you wait for data before rendering a template and setting the data context reactively. Also, you get to secure some leaking parts of your app, removing `autopublish` and `insecure` packages. Your app looks like a mature one.
 
+It's the final day. This is it. Will you deliver?
+Your boss walks up to you, bad tempered as always and expecting to see the app finished. You spent your last couple of hours working like crazy on the last feature (displaying user presence) and deploying the app on a server. 
+ - Let me see the chat app, she says, sitting in your chair.
+Your hands sweating, you fire up a web browser and there it is, the chat app! While your boss is clicking away, signing up and sending messages, you pull up an Android device and fire up the mobile build on it. Silently, you put the phone on the desk, next to the keyboard. She looks up startled and then she understands. You implemented an Android app, too!
+But you're not done, yet. From your other pocket you produce an iPhone, with the app running on it.
+- Great job, she exclaims. You're hired as a permanent!
+- No, thanks, you reply, full of yourself. I realised that I'm very good at stuff. I bought a ticket to my hometown. I'll fight Bambalore and win and then I'll practice coding on my own rules. Goodbye.
