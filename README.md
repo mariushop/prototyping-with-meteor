@@ -1,3 +1,4 @@
+##[UPDATE: [successfuly](learning_outcomes.md) completed.]
 # Prototyping with Meteor
 
 Fast prototyping with JavaScript - nice skills to have when you hear "the client needs to see it by the end of the week".
