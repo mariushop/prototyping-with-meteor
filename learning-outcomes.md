@@ -35,3 +35,5 @@
 - application architecture
 - deploy meteor apps
 - build your own app
+
+[Final session.](Session5_outcomes.md)
